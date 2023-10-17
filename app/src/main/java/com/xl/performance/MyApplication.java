@@ -2,6 +2,7 @@ package com.xl.performance;
 
 import android.app.Application;
 import android.content.Context;
+import android.os.Trace;
 
 /**
  * @Author : wyl
